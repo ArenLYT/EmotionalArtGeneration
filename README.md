@@ -1,1 +1,1 @@
-# EmotionalGAN
+# EmotionalArtGeneration
